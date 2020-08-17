@@ -1,4 +1,6 @@
-#2020-08-17
+#VT Git Training
+##2020-08-17
+
 - `git init`
 - `git config --global user.name "Maddy Grupper"`
 - `git config --global user.email "maddyag@vt.edu"`
@@ -21,10 +23,11 @@
 	- `git diff --staged` : shows difference from staging area with las t known
 	- you can use `git log --oneline`to specify different versions in history
 
-- `git log`
+##Remotes`
 
 - `git remote add origin <URL>`: adds <URL> with the name origin
 - `git push origin master` : pushes the master branch to the origin remote
 - `git pull origin master` : pulls the master branch from origin to a local computer
 	
-- You can make changes to differernt parts of a file and it will be combined automatically
+- You can make changes to differernt parts of a file and it will be combined automatically>
+-in a merge conflict, look for the `>>>` `===` `<<<` and fix those lines to what you >
