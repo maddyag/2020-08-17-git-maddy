@@ -11,3 +11,7 @@
 	- if you've opened this in VI(M): <ESC> `:q!`
 	- `git config --global core.editor "nano -w"`
 
+- `git log` : shows you yuour history
+	- `git log --oneline`: shows you your history in one line
+
+- `HEAD` : tells you where you are looking at in history
