@@ -27,4 +27,4 @@
 - `git push origin master` : pushes the master branch to the origin remote
 - `git pull origin master` : pulls the master branch from origin to a local computer
 	
-- You can make changes to differernt parts of a file and it will 
+- You can make changes to differernt parts of a file and it will be combined automatically
