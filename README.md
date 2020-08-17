@@ -1,4 +1,4 @@
-#2020-08-17-git-maddy
+#2020-08-17
 - `git init`
 - `git config --global user.name "Maddy Grupper"`
 - `git config --global user.email "maddyag@vt.edu"`
